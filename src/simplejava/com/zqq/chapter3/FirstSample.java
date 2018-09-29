@@ -5,7 +5,7 @@ package simplejava.com.zqq.chapter3;
 * @ClassName: FirstSample 
 * @Description: chapter3 
 * @author zhangqianqiang 
-* @date 2018Äê9ÔÂ29ÈÕ ÉÏÎç10:38:28 
+* @date 2018å¹´9æœˆ29æ—¥ 10:38:28 
 *
  */
 public class FirstSample {
